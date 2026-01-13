@@ -14,7 +14,7 @@ a polished, responsive experience across all devices.
 
 LIVE DEMO
 
-Web: https://och-eta.vercel.app/
+Web: https://och91169.vercel.app/
 
 ---------------------------------------------------------------------
 ## PROJECT STRUCTURE
@@ -161,5 +161,5 @@ Free to use, modify, and distribute.
 🧑 Name      : Shitanshu Singh
 💻 GitHub    : @silence91169
 🎨 Project   : Och
-🌐 Live Demo : https://och-eta.vercel.app/
+🌐 Live Demo : https://och91169.vercel.app/
 ```
